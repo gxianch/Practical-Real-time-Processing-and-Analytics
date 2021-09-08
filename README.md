@@ -1,4 +1,6 @@
 # Practical Real-time Data Processing and Analytics
+![image](https://github.com/gxianch/Practical-Real-time-Processing-and-Analytics/blob/master/cover.jpg)
+
 This is the code repository for [Practical Real-time Data Processing and Analytics](https://www.packtpub.com/big-data-and-business-intelligence/practical-real-time-data-processing-and-analytics?utm_source=github&utm_medium=repository&utm_campaign=9781787281202), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 With the rise of Big Data, there is an increasing need to process large amounts of data continuously, with a shorter turnaround time. Real-time data processing involves continuous input, processing and output of data, with the condition that the time required for processing is as short as possible.
